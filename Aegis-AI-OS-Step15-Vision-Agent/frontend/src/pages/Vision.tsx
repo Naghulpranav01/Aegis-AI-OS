@@ -1,0 +1,1 @@
+import VisionPanel from "../components/VisionPanel"; export default ()=> <VisionPanel/>;
