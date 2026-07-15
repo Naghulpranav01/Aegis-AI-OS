@@ -1,0 +1,1 @@
+import TerminalPanel from '../components/TerminalPanel'; export default ()=> <TerminalPanel/>;
