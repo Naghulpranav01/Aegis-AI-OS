@@ -1,0 +1,1 @@
+import OrchestratorPanel from "../components/OrchestratorPanel"; export default ()=> <OrchestratorPanel/>;
