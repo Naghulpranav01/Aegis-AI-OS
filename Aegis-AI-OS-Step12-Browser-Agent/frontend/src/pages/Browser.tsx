@@ -1,0 +1,1 @@
+import BrowserPanel from "../components/BrowserPanel"; export default ()=> <BrowserPanel/>;
