@@ -1,0 +1,1 @@
+import DocumentPanel from "../components/DocumentPanel"; export default ()=> <DocumentPanel/>;
