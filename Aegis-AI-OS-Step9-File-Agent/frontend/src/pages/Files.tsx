@@ -1,0 +1,1 @@
+import FileExplorer from '../components/FileExplorer'; export default ()=> <FileExplorer/>;
