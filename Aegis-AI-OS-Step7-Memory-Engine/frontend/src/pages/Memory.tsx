@@ -1,0 +1,1 @@
+import MemoryPanel from "../components/MemoryPanel"; export default ()=> <MemoryPanel/>;
