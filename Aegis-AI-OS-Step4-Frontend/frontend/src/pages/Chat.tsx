@@ -1,0 +1,1 @@
+export default ()=> <h1>AI Chat (Backend integration in next step)</h1>;

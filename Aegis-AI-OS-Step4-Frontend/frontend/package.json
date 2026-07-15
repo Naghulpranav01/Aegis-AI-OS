@@ -1,0 +1,13 @@
+{
+  "name":"aegis-ai-frontend",
+  "private":true,
+  "scripts":{"dev":"vite","build":"vite build"},
+  "dependencies":{
+    "react":"^19.0.0",
+    "react-dom":"^19.0.0",
+    "react-router-dom":"^7.0.0",
+    "zustand":"^5.0.0",
+    "axios":"^1.0.0",
+    "framer-motion":"^12.0.0"
+  }
+}
