@@ -1,0 +1,1 @@
+import LinuxAgentPanel from '../components/LinuxAgentPanel'; export default ()=> <LinuxAgentPanel/>;
