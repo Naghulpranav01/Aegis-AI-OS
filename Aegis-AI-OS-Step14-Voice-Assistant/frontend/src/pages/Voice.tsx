@@ -1,0 +1,1 @@
+import VoicePanel from "../components/VoicePanel"; export default ()=> <VoicePanel/>;
