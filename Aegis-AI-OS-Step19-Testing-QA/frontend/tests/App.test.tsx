@@ -1,0 +1,2 @@
+// Placeholder frontend test
+export {};
