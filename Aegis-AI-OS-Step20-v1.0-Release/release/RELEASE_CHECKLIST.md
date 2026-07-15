@@ -1,0 +1,7 @@
+- [ ] All tests passing
+- [ ] Update version
+- [ ] Build frontend
+- [ ] Package backend
+- [ ] Build Electron app
+- [ ] Create GitHub release
+- [ ] Publish documentation
