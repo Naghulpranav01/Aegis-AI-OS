@@ -1,0 +1,1 @@
+import PluginPanel from "../components/PluginPanel"; export default ()=> <PluginPanel/>;
