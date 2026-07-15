@@ -1,0 +1,1 @@
+import DockerPanel from "../components/DockerPanel"; export default ()=> <DockerPanel/>;
